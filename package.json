@@ -8,7 +8,7 @@
     "name": "",
     "email": ""
   },
-  "repository": "tohsj0806@qq.com/TablePage",
+  "repository": "https://github.com/tohsj0806/TablePage.git",
   "scripts": {
     "dev": "father doc dev",
     "build": "father build"
